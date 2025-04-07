@@ -1,6 +1,6 @@
 # GSoC-Sugar-Labs
 
-# Google Summer of Code 2024 Proposal
+## Google Summer of Code 2025 Proposal
 
 ## Basic Details
 
