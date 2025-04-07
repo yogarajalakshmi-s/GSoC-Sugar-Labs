@@ -34,8 +34,14 @@ It will introduce AI-driven creativity to the Sugar learning platform, giving yo
 
 ## Timeline
 
-### Community Bonding   
-### Phase 1: (May 20 – June 24)
+### Community Bonding (May 8 - June 1)
+- Read documentation and previous discussions
+- Join meetings if any
+- Finalize project plan
+- Identify classroom-friendly prompt engineering strategies
+- Test lightweight LLMs and explore compatibility with Sugar environment
+
+### Phase 1: (June  20 – July 20)
 **Goal:** Build the foundation   
 **Week 1–2**
 - Set up development environment.
@@ -46,10 +52,10 @@ It will introduce AI-driven creativity to the Sugar learning platform, giving yo
 - Add features to personalize prompts based on age.Implement response filtering for age-appropriate content.
 - Begin testing interaction loop (prompt → response → user edits → suggestion)   
 
-**Deliverable for Evaluation 1 (June 24):**   
+**Deliverable for Evaluation 1:**   
 - A working prototype that supports story prompts and age-safe response generation   
 
-### Phase 2: (June 25 – July 29)
+### Phase 2: (July 21 – August 25)
 **Goal:** Polish features and integrate feedback   
 **Week 5–6**
 - Add customization options (e.g., character names, genre, story length)  
@@ -60,10 +66,10 @@ It will introduce AI-driven creativity to the Sugar learning platform, giving yo
 - Make changes based on feedback (simplify UI, add helper tips, etc.)
 - Explore basic fine-tuning or RAG implementation if needed.
 
-**Deliverable for Evaluation 2 (July 29)**
+**Deliverable for Evaluation 2**
 - Fully interactive Story Builder with customization, feedback integration, and LLM-backed suggestions.
 
-### Final Weeks (July 30 – August 18)
+### Final Weeks
 - Bug fixing and performance improvements
 - Documentation and final walkthrough
 - Final mentor review and handover
